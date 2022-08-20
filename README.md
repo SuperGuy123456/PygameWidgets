@@ -11,6 +11,7 @@ Complete with:
 * Delay
 * Cursor controls
 * AllBtns Example
+* MultiExample.py
 * 155 RGB Codes for easy coding
 
 **More Coming!**
