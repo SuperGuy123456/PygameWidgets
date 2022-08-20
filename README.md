@@ -50,6 +50,18 @@ https://pygamewidgetswebsite.superguy123456.repl.co/
 
 In Order to use the things inside you will have to import pygame yourself too.
 
+Also, you **MUST IMPORT PYGAME**
+
+To do so, just type 
+
+Mac/OS
+
+```pip3 import pygame```
+
+Windows
+
+```pip install pygame```
+
 More Files will be added so keep checking!
 
 Got to: **https://pygamewidgetswebsite.superguy123456.repl.co/**
