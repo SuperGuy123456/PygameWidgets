@@ -43,7 +43,9 @@ doing that you should see the opening statement:
 
 PygameWidgets Active!
 
-https://pygamewidgetswebsite.superguy123456.repl.co/*
+https://pygamewidgetswebsite.superguy123456.repl.co/
+
+*
 
 In Order to use the things inside you will have to import pygame yourself too.
 
