@@ -62,6 +62,8 @@ Windows
 
 ```pip install pygame```
 
+In terminal or cmd.
+
 More Files will be added so keep checking!
 
 Got to: **https://pygamewidgetswebsite.superguy123456.repl.co/**
