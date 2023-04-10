@@ -1,3 +1,3 @@
-#PYGAMEWIDGETS IS NO MORE
+# PYGAMEWIDGETS IS NO MORE
 
-#go to the GameWidgets repositry
+# go to the GameWidgets repositry
